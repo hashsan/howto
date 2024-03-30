@@ -1,4 +1,7 @@
 # howto
+
+https://hashsan.github.io/howto/mer/mer_page-0001.jpg
+
 ## google slide
 https://docs.google.com/presentation/u/0/
 ## color catch
